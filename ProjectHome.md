@@ -1,0 +1,1 @@
+Manages the data required for a Kanban project and displays it.
